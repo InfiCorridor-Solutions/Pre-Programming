@@ -1,0 +1,4 @@
+hello
+My name is yash
+this is nano
+Nano is a good text editor

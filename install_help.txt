@@ -1,0 +1,11 @@
+-> To install bash on Windows 10
+
+https://itsfoss.com/install-bash-on-windows/
+
+-> To Dual boot windows and Ubuntu (Linux)
+
+https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/
+
+-> To install Ubuntu (Linux) in VirtualBox
+
+https://www.wikihow.com/Install-Ubuntu-on-VirtualBox 
